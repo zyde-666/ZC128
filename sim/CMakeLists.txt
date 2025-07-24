@@ -11,7 +11,13 @@ set(SOURCES
     ${CMAKE_SOURCE_DIR}/src/pc.cpp
     ${CMAKE_SOURCE_DIR}/src/ALU_LG.cpp
     ${CMAKE_SOURCE_DIR}/src/InstructionSet.cpp
+    ${CMAKE_SOURCE_DIR}/src/Memory.cpp
     ${CMAKE_SOURCE_DIR}/test.cpp
+    ${CMAKE_SOURCE_DIR}/src/Cache.cpp
+    ${CMAKE_SOURCE_DIR}/src/thread.cpp     
+    ${CMAKE_SOURCE_DIR}/src/core.cpp      
+    ${CMAKE_SOURCE_DIR}/src/system.cpp      
+    ${CMAKE_SOURCE_DIR}/src/executor.cpp 
 )
 #生成可执行文件
 add_executable(SimpleCPU ${SOURCES})

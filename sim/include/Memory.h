@@ -1,4 +1,4 @@
-#ifndef MENORY_H
+#ifndef MEMORY_H
 #define MEMORY_H
 
 class Mem {

@@ -14,6 +14,16 @@ enum Opcode{
     CMP=9,
     BEQ=10,
     BNE=11,
+    LOAD = 12,
+    STORE = 13,
+    SHL = 14,
+    SHR = 15,
+    NEG = 16,
+    JZ = 17,
+    MUL = 18,
+    DIV = 19,
+    MOD = 20,
+    NOP = 21,
     HLT=255,
 };
 

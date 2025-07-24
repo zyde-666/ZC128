@@ -34,3 +34,17 @@ sim/build/CMakeFiles/SimpleCPU.dir/src/pc.cpp.o.d
 sim/build/CMakeFiles/SimpleCPU.dir/src/RF.cpp.o
 sim/build/CMakeFiles/SimpleCPU.dir/src/RF.cpp.o.d
 
+.vscode/settings.json
+sim/build/CMakeFiles/SimpleCPU.dir/src/thread.cpp.o.d
+sim/build/CMakeFiles/SimpleCPU.dir/src/thread.cpp.o
+sim/build/CMakeFiles/SimpleCPU.dir/src/system.cpp.o.d
+sim/build/CMakeFiles/SimpleCPU.dir/src/system.cpp.o
+sim/build/CMakeFiles/SimpleCPU.dir/src/Memory.cpp.o.d
+sim/build/CMakeFiles/SimpleCPU.dir/src/Memory.cpp.o
+sim/build/CMakeFiles/SimpleCPU.dir/src/executor.cpp.o.d
+sim/build/CMakeFiles/SimpleCPU.dir/src/executor.cpp.o
+sim/build/CMakeFiles/SimpleCPU.dir/src/core.cpp.o.d
+sim/build/CMakeFiles/SimpleCPU.dir/src/core.cpp.o
+sim/build/CMakeFiles/SimpleCPU.dir/src/Cache.cpp.o.d
+sim/build/CMakeFiles/SimpleCPU.dir/src/Cache.cpp.o
+sim/build/CMakeFiles/SimpleCPU.dir/compiler_depend.internal
